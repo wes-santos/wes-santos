@@ -32,6 +32,28 @@
   <a href=""><img src="Images/nodejs.svg" alt="nodejs" height="44px" /></a>
   <a href=""><img src="Images/visual-studio-code.svg" alt="visual studio code" height="44px" /></a>
 </div>
+<div>
+  <h2>Stats</h2>
+  <table align="center">
+    <tr>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=wes-santos&show_icons=true&theme=github_dark" />
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-santos&layout=compact&theme=github_dark" />
+        </a>
+      </th>
+    </tr>
+  </table>
+  <p align="center">
+    <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wes-santos&theme=github-dark" />
+    </a>
+  </p>
+</div>
 <!---
 wes-santos/wes-santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
