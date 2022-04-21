@@ -1,6 +1,11 @@
 <article>
   <h1 align="center">Hello 👋, I'm Weslley Santos</h1>
   <p>
+    <a href="#">
+      <img src="Images/connection.png" alt="represents connection between people by tecnology" width="460px" align="right" />
+    </a>
+  <p>
+  <p>
   I am a <strong>brazilian Web Developer</strong>, love animals (I have five cats 😸), <strong>technology</strong> and <strong>learn</strong> new things. In my free time, I love to watch YouTube videos, specially podcasts and everything about technology.
   </p>
   <p>
