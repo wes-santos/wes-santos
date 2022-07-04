@@ -30,13 +30,19 @@
     <a href=""><img src="Images/html-5.svg" alt="html-5" height="44px" /></a>
     <a href=""><img src="Images/css-3.svg" alt="css-3" height="44px" /></a>
     <a href=""><img src="Images/javascript.svg" alt="javascript" height="44px" /></a>
+    <a href=""><img src="Images/es6.svg" alt="es6" height="44px" /></a>
+    <a href=""><img src="Images/npm.svg" alt="node package manager" height="44px" /></a>
     <a href=""><img src="Images/jest.svg" alt="jest" height="44px" /></a>
     <a href=""><img src="Images/react-router.svg" alt="react router" height="44px" /></a>
     <a href=""><img src="Images/react.svg" alt="reactjs" height="44px" /></a>
     <a href=""><img src="Images/redux.svg" alt="redux" height="44px" /></a>
     <a href=""><img src="Images/mysql.svg" alt="mysql" height="44px" /></a>
     <a href=""><img src="Images/nodejs.svg" alt="nodejs" height="44px" /></a>
-    <a href=""><img src="Images/visual-studio-code.svg" alt="visual studio code" height="44px" /></a>
+    <a href=""><img src="Images/sequelize.svg" alt="sequelize" height="44px" /></a>
+    <a href=""><img src="Images/mocha.svg" alt="mocha" height="44px" /></a>
+    <a href=""><img src="Images/chai.svg" alt="chai" height="44px" /></a>
+    <a href=""><img src="Images/adobe-photoshop.svg" alt="adobe photoshop" height="44px" /></a>
+    <a href=""><img src="Images/adobe-illustrator.svg" alt="adobe illustrator" height="44px" /></a>
   </div>
   <div>
     <h2>Stats</h2>
