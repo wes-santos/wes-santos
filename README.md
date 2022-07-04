@@ -38,6 +38,7 @@
     <a href=""><img src="Images/redux.svg" alt="redux" height="44px" /></a>
     <a href=""><img src="Images/mysql.svg" alt="mysql" height="44px" /></a>
     <a href=""><img src="Images/nodejs.svg" alt="nodejs" height="44px" /></a>
+    <a href=""><img src="Images/express.svg" alt="exppressJS" height="44px" /></a>
     <a href=""><img src="Images/sequelize.svg" alt="sequelize" height="44px" /></a>
     <a href=""><img src="Images/mocha.svg" alt="mocha" height="44px" /></a>
     <a href=""><img src="Images/chai.svg" alt="chai" height="44px" /></a>
