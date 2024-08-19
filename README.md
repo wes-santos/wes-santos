@@ -6,10 +6,10 @@
     </a>
   <p>
   <p>
-  I am a <strong>Brazilian Software Engineer<strong>, I love animals (I have five cats 😸), <strong>technology</strong> and <strong>learning</strong> new things. In my free time, I love to watch YouTube videos, especially podcasts and everything about technology.
+  I am a <strong>Brazilian Software Engineer</strong>, I love animals (I have five cats 😸), <strong>technology</strong> and <strong>learning</strong> new things. In my free time, I love to watch YouTube videos, especially podcasts and everything about technology.
   </p>
   <p>
-  I love learning new things and, probably, this is what I'm doing right now. Actually, I'm studying for a bachelor's degree in computer science at Faculdade Descomplica and information systems at Faculdade XP Educação — a university from <a href="https://www.xpinc.com/">XP Inc.</a>.
+  I love learning new things and, probably, this is what I'm doing right now. Actually, I'm studying for a <strong>bachelor's degree</strong> in <strong>computer science</strong> at Faculdade Descomplica and <strong>information systems</strong> at Faculdade XP Educação — a university from <a href="https://www.xpinc.com/">XP Inc.</a>.
   </p>
   <p>
     <em>
